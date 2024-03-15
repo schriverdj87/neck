@@ -4,5 +4,5 @@ A twist on the classic snake game. Guide Naybur to collect all the sparklies whi
 # To Run
 Double-click neck.jar
 
-#JavaFX 
+# JavaFX 
 To compile this you will need to have JavaFX setup on your system.
